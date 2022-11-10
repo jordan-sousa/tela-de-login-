@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  background: url('https://www.significadofacil.com/wp-content/uploads/2019/07/background.jpg');
+  margin-top: 100px;
+}
+.conteiner {
+  margin: 0 auto;
+  background: rgba(80, 71, 71, 0.632);
+  width: 400px;
+  height: 370px;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+label {
+  font-size: 1.5em;
+  margin-left: 30px;
+  padding: 4px;
+}
+
+input {
+  width: 300px;
+  margin-left: 30px;
+  padding: 8px;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
+
+/*button {
+  width: 320px;
+  margin-left: 30px;
+  padding: 3px;
+  font-size: 1.4em;
+}
+*/
+#botao {
+  width: 300px;
+  margin-left: 30px;
+  padding: 8px;
+  font-size: 1.4em;
+  background: rgba(7, 4, 4, 0.892);
+  border-radius: 5px;
+}
+
+#botao, a {
+  text-align: center;
+  background: blue;
+}
+
+#botao, a, button {
+  font-size: 1.0em;
+  background: blue;
+  border: none;
+}
+
+h4 {
+  font-size: 1.4em;
+  text-align: center;
+  margin-top: 20px;
+  
+}
+
+a {
+  text-decoration: none;
+  color: rgb(1, 6, 10);
+}
+
+p {
+  text-align: center;
+  margin-top: 5px;
+}
